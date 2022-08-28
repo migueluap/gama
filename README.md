@@ -1,14 +1,10 @@
 # gama
-React, da Gama Academy.
+React, Gama Academy.
 
-## A aplicação
+## Application
 The user enters a Github username. The application, searches for this user, retrieves its repositories and displays them on another page.
 
-![Tela inicial da aplicação, na qual ocorre a busca pelo usuário do Github.](https://imgur.com/V9WQqtO.png)
-![Tela onde são exibidos os repositórios do usuário pesquisado.](https://imgur.com/k0cJKWl.png)
-
-## Motivação
-Fundamental concepts:
+## Fundamental concepts:
 - Hooks;
 - Components;
 - Properties;
